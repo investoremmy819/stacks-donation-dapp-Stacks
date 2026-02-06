@@ -26,3 +26,8 @@ frontend/
 2. Deploy donation contract to Stacks Testnet
 3. Open frontend/index.html
 4. Connect wallet and send donation
+
+## Deployed Contract (Testnet)
+Contract: YOUR_TESTNET_ADDRESS.donation
+Explorer: https://explorer.hiro.so/address/YOUR_TESTNET_ADDRESS.donation?chain=testnet
+
